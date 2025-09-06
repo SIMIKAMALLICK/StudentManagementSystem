@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class StudentManagementSystem
+public class StudentManagementSystem1
 { 
     public static void main(String[] args)
 	{ 
@@ -65,4 +65,5 @@ public class StudentManagementSystem
 		while (choice != 5); 
 		sc.close();
 	}
+
 }
